@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 from grpc.beta import implementations
 import logging
 import sys
